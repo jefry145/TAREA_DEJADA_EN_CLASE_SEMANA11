@@ -1,3 +1,5 @@
+#LA CARPETA " IMG SEMANA 11" CONTIENE UNA CAPTURA DE COMO SE VE LA PAGINA
+
 # Actividad11
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
