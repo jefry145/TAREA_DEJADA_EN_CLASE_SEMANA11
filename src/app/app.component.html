@@ -1,0 +1,7 @@
+<h2>FORMULARIO REACTIVO</h2>
+<form [formGroup]="formLogin" >
+<label for="">Name:<br>
+  <input type="text" formControlName="msg">
+</label><br>
+</form>
+<p>Value: {{formLogin.value.msg}}</p>
